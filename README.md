@@ -31,6 +31,39 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 ![Construct 3](https://img.shields.io/badge/-Construct%203-5C2D91?style=flat&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏕️ RentGear</h4>
+      <p>Marketplace penyewaan alat hiking/camping. Flutter client + Laravel API, verifikasi dokumen wajib, smart matching berbasis AHP, dan sweep-line availability check untuk cegah double booking.</p>
+      <p><i>Flutter · Laravel · MySQL · Algorithm Design</i></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 Sistem Informasi Akademik</h4>
+      <p>Sistem informasi akademik full-stack pakai Next.js, Prisma, dan Docker untuk deployment.</p>
+      <p><i>Next.js · TypeScript · Prisma · Docker</i></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧾 Kasir Mini</h4>
+      <p>Aplikasi kasir mobile ringan pakai Flutter, fokus ke alur transaksi cepat untuk pedagang kecil.</p>
+      <p><i>Flutter · Dart</i></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 ---
 
@@ -66,7 +99,8 @@
 
 - 🔧 Building real-world projects with Laravel & MySQL
 - 🎮 Developing immersive games with Unity and Construct
-- 📱 Exploring cross-platform apps with React Native
+- 📱 Exploring cross-platform apps with React Native and Flutter
+- 🧠 Designing algorithm-driven systems (smart matching, availability scheduling) for RentGear
 
 ---
 
