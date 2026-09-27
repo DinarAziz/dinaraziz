@@ -1,111 +1,95 @@
-<h1 align="center">Hi 👋, I'm Dinar Aziz Al Ghifari</h1>
-<h3 align="center">💻 Tech Enthusiast | 🎮 Game Developer | 📱 Mobile & Web Developer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinaraziz&label=Profile%20views&color=0e75b6&style=flat" alt="dinaraziz" />
-</p>
+# Hi, I'm Dinar Aziz Al Ghifari 👋
 
----
+**Mobile, Web & Game Developer** — turning ideas into interactive, working software.
 
-### 🌟 About Me
+<img src="https://komarev.com/ghpvc/?username=dinaraziz&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
 
-- 🔭 I’m currently working on **game projects, web apps, and mobile apps**
-- 🌱 I’m currently learning **Unity, Laravel, React Native, and more**
-- 📚 I’ve earned certificates in **Construct 3, Phaser, JavaScript Canvas, Three.js** from Gamelab
-- 💡 I’m passionate about combining **technology and creativity**
-- 🚀 I love building interactive experiences in both **2D and 3D worlds**
+<a href="mailto:dinaraziz942@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/dinaraziz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
----
+</div>
 
-### 🛠 Tech Stack
+<br>
 
-#### 💻 Languages & Tools
+## About Me
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
-![Construct 3](https://img.shields.io/badge/-Construct%203-5C2D91?style=flat&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- 🔭 Building **game projects, web apps, and mobile apps**
+- 🌱 Currently learning **Unity, Laravel, React Native, and Flutter**
+- 📚 Certified in **Construct 3, Phaser, JavaScript Canvas, Three.js** from Gamelab Indonesia
+- 🧠 Interested in algorithm-driven systems — smart matching, scheduling, availability logic
+- 💡 Passionate about combining **technology and creativity**
 
----
+<br>
 
-### 📌 Featured Projects
+## Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏕️ RentGear</h4>
-      <p>Marketplace penyewaan alat hiking/camping. Flutter client + Laravel API, verifikasi dokumen wajib, smart matching berbasis AHP, dan sweep-line availability check untuk cegah double booking.</p>
-      <p><i>Flutter · Laravel · MySQL · Algorithm Design</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎓 Sistem Informasi Akademik</h4>
-      <p>Sistem informasi akademik full-stack pakai Next.js, Prisma, dan Docker untuk deployment.</p>
-      <p><i>Next.js · TypeScript · Prisma · Docker</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧾 Kasir Mini</h4>
-      <p>Aplikasi kasir mobile ringan pakai Flutter, fokus ke alur transaksi cepat untuk pedagang kecil.</p>
-      <p><i>Flutter · Dart</i></p>
-    </td>
-    <td width="50%" valign="top"></td>
-  </tr>
-</table>
+**Mobile**
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 
----
+**Web & Backend**
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 
-### 🏆 Achievements
+**Database & Tools**
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
-- ✅ **Certified Game Developer** from Gamelab Indonesia
-- ✅ Completed projects in **Web Development**, **Game Development**, and **Mobile App Development**
-- ✅ Actively participating in coding challenges and building portfolio projects
+**Game Development**
+<br>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Construct%203-5C2D91?style=flat-square&logoColor=white" />
 
----
+<br>
 
-### 📫 Contact Me
+## Featured Projects
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dinaraziz942@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/dinaraziz)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+| Project | Description | Stack |
+|---|---|---|
+| 🏕️ **RentGear** | Marketplace penyewaan alat hiking/camping. Verifikasi dokumen wajib, smart matching berbasis AHP, sweep-line availability check untuk cegah double booking. | Flutter · Laravel · MySQL |
+| 🎓 **Sistem Informasi Akademik** | Sistem informasi akademik full-stack dengan API routes dan deployment berbasis container. | Next.js · TypeScript · Prisma · Docker |
+| 🧾 **Kasir Mini** | Aplikasi kasir mobile ringan, fokus ke alur transaksi cepat untuk pedagang kecil. | Flutter · Dart |
 
----
+<br>
 
-### 📊 GitHub Stats
+## Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dinaraziz&show_icons=true&theme=tokyonight" alt="dinaraziz" />
-</p>
+- ✅ **Certified Game Developer** — Gamelab Indonesia
+- ✅ Shipped projects across Web, Game, and Mobile Development
+- ✅ Actively building portfolio projects and taking on coding challenges
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinaraziz&theme=tokyonight" />
-</p>
+<br>
 
----
+## GitHub Stats
 
-### 🎮 Currently Exploring
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dinaraziz&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinaraziz&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-- 🔧 Building real-world projects with Laravel & MySQL
-- 🎮 Developing immersive games with Unity and Construct
-- 📱 Exploring cross-platform apps with React Native and Flutter
-- 🧠 Designing algorithm-driven systems (smart matching, availability scheduling) for RentGear
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dinaraziz&theme=tokyonight&hide_border=true" />
+</div>
 
----
+<br>
 
-### ✨ Motto
+<div align="center">
 
-> "Code with purpose. Build with passion. Share with the world."
+*"Code with purpose. Build with passion. Share with the world."*
 
----
+</div>
